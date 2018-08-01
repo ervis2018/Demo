@@ -1,0 +1,368 @@
+[
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app",
+        {
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533105485938,
+            "changeTime": 1533105485938,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533105485939,
+            "changeTime": 1533105485939,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533107629601,
+            "changeTime": 1533107629601,
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2"
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533105790689,
+            "changeTime": 1533105790689,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo",
+        {
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533105790738,
+            "changeTime": 1533105790738,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+        {
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1533105790725,
+            "changeTime": 1533105790725,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+        {
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+            "isDirectory": false,
+            "size": 180,
+            "modifiedTime": 1533106317507,
+            "changeTime": 1533106317507,
+            "contentHash": "ca1641a61af348c78cc20c6c05b10fd1a91d8e8b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1533105790698,
+            "changeTime": 1533105790698,
+            "contentHash": "e5e7db39d75083e3ba59f046262b4d8fda21dfe5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+        {
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1533105790718,
+            "changeTime": 1533105790718,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+        {
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1533105790739,
+            "changeTime": 1533105790739,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+        {
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1533105790722,
+            "changeTime": 1533105790722,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+        {
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1533105790701,
+            "changeTime": 1533105790701,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+        {
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1533105790704,
+            "changeTime": 1533105790704,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1533105790720,
+            "changeTime": 1533105790720,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes",
+        {
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533106435893,
+            "changeTime": 1533106435893,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 697,
+            "modifiedTime": 1533107629577,
+            "changeTime": 1533107629577,
+            "contentHash": "65b68eb44f9df869a9d82daa6fb3d7e7df8f5506"
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 310,
+            "modifiedTime": 1533107629585,
+            "changeTime": 1533107629585,
+            "contentHash": "953a31ab5b0e3b3de9aaafb4c7a2de615761dc5d"
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1041,
+            "modifiedTime": 1533107629595,
+            "changeTime": 1533107629595,
+            "contentHash": "4e1c555e89ee6ac79ef1d86818bb828285e458c4"
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4504,
+            "modifiedTime": 1533107629626,
+            "changeTime": 1533107629626,
+            "contentHash": "df448ecf2337f6b1eeb01f3911dd396df1669e6c"
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4504,
+            "modifiedTime": 1533107629626,
+            "changeTime": 1533107629626,
+            "contentHash": "df448ecf2337f6b1eeb01f3911dd396df1669e6c"
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4842,
+            "modifiedTime": 1533107629626,
+            "changeTime": 1533107629626,
+            "contentHash": "fac9d4fa512898796d761216f10ab0c782554852"
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17921,
+            "modifiedTime": 1533107629669,
+            "changeTime": 1533107629669,
+            "contentHash": "69670586a912fc9bcc6ef9bc98edf19c49d16361"
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533107629575,
+            "changeTime": 1533107629575,
+            "contentHash": "a1a96b41743564d0d68beaf118bef8b784942b87"
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533107629583,
+            "changeTime": 1533107629583,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6"
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533107629591,
+            "changeTime": 1533107629591,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065"
+        }
+    ],
+    [
+        "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mcorbes\\Demo-Corbes\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533107629663,
+            "changeTime": 1533107629663,
+            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796"
+        }
+    ]
+]
